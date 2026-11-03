@@ -1,3 +1,4 @@
 file2
 
 ini adalah file 2
+Ini adalah baris baru diubah dari GITHUB langsung
