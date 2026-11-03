@@ -1,3 +1,4 @@
 file1
 
 Ini adalah file 1
+Ini baris 2 ditambahkan dari GITHUB langsung
